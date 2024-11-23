@@ -1,0 +1,88 @@
+.profile-pic{
+    width: 250px;
+    border-radius:90%;
+    margin-left: auto;
+    margin-right : auto;
+    display: block;
+}
+#home{ 
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: pink ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+#name{
+    color: rgb(100, 200, 150);
+}
+#name
+#sub{
+    text-align: center;
+}
+#home-button {
+    text-align: center;
+    display: block;
+    background-color: pink;
+    width: 800px;
+    margin-left: auto;
+    margin-right : auto;
+    padding-left: 20px;
+    color: blueviolet;
+    border-radius: 70%;
+    font-size: 20px;
+    text-decoration: : none;
+
+}
+}
+.navbar-text a{
+    color : pink;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.bg-red{
+    background-color: lightsalmon;
+}
+col1{
+    background-color: red;
+}
+col2{
+    background-color: pink;
+}
+col3{
+    background-color: pink;
+}
+
+.btn-primary{
+    background-color: pink; 
+}
+
+#resume-text{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50x;
+}
+#resume-button{
+text-align: center;
+display: inline;
+background-color: pink;
+width: 800px;
+margin-left: auto;
+margin-right : auto;
+padding-left: 20px;
+padding: 10px 20px ;
+color: blueviolet;
+border-radius: 70%;
+font-size: 20px;
+text-decoration: : none;
+}
+
+
+.list-group {
+    width: 800px;
+    margin-left: auto;
+    margin-right : auto;
+    padding: none;
+}
